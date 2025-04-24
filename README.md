@@ -1,6 +1,6 @@
 # PlaylistApp
 
-**PlaylistApp** is a Swift-based iOS music player app that allows users to play a curated selection of songs, control playback, adjust volume, and favorite tracks for later review. Built with UIKit, AVFoundation, and Storyboards, this app delivers a simple and engaging music experience.
+**PlaylistApp** is a Swift-based iOS music player app that allows users to play a curated selection of songs, control playback, adjust volume, and favorite tracks for later review. Built with UIKit, AVFoundation, and Storyboards, this app delivers a simple music experience.
 
 ---
 
